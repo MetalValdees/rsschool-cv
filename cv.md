@@ -4,3 +4,5 @@
 4. **My skill's:** HTML, CSS, C++, C, Git, GitHub, C#.
 5. **Code Examples:** Some code examples can be found here [GitHub](https://github.com/MetalValdees)
 6. **Practical experience:** Now i don't have a projects
+7. **Training:** I take a course on JS / FRONT-END in The Rolling Scopes.I trained myself with the help of learn.javascript.ru and youtube channels. 
+8. **Level of English language proficiency:** A2
